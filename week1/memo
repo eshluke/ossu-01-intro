@@ -1,0 +1,5 @@
+[Thoughts on the Class]
+- In lecture, it was a nice approach to compare C syntax with scratch block components side by side.
+- Worth-to-remember concepts from the lecture: Overflow (finite memory), Floating-point imprecision, Abstraction
+- It was my first time working in a cloud environment, and I could at least feel how Docker can make life easier.
+- Impressed by well-configured working environment: automated pset self-checking, submission, updating workspace, etc. (Automation!)
